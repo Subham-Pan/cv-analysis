@@ -1,5 +1,6 @@
-pdfplumber
-pandas
-scikit-learn
 streamlit
-anthropic
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
