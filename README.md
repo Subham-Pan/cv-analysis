@@ -114,7 +114,7 @@ Resume classification is a naturally high-accuracy NLP task because job domains 
 streamlit run app.py
 ```
 
-Opens at: http://localhost:8501
+Opens at: https://cv-analysis-kpcukjabx4v3rzd5l7v4bm.streamlit.app
 
 ---
 
