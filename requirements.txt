@@ -4,3 +4,8 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+pdfplumber
+PyPDF2
+nltk
+regex
+joblib
